@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/26x0sla91er9bw79?svg=true)](https://ci.appveyor.com/project/ygalanak/ukpc2nuts)
+
+
 # UK postcodes to NUTS statistical regions
 
 ## Info
