@@ -26,3 +26,5 @@ The 3 levels of NUTS are:
 - `output` : output `.csv` converted table
 
 
+## Feedback
+Communicate any feedback, [here](mailto:galanakis.gian@gmail.com)
