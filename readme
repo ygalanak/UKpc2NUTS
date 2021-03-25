@@ -1,4 +1,5 @@
 # UK postcodes to NUTS statistical regions
+
 ## Info
 The code converts postcodes units (e.g. TS25 5ND) to postcodes areas (e.g. TS). It then assigns postcodes to Nomenclature of Territorial Units for Statistics (NUTS) codes of the United Kingdom (UK).
 
