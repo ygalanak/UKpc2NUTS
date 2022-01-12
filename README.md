@@ -28,6 +28,9 @@ The 3 levels of NUTS are:
 - `input`  : input `.csv` files for conversion
 - `output` : output `.csv` converted table
 
+## Cite
+> Galanakis, Y. (2021). Converting UK postcodes to NUTS regions (Version 1.0) [Computer software]. https://github.com/ygalanak/UKpc2NUTS
+
 
 ## Feedback
 Communicate any feedback, [here](mailto:galanakis.gian@gmail.com)
